@@ -43,13 +43,3 @@ All-in-one Travel Booking App According to a report published by US Travel Assoc
 ## **Usage**
 
 This application helps user to book their travels and tourist places and hotel booking on single application.
-
-## **Contributors**
-
-This is project is started and completed by my team.
-*Saravanan
-*Shubam
-*Rafi
-*Sharanu
-*Anshu Kumar
-*Ranjith
