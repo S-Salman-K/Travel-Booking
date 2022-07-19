@@ -6,31 +6,26 @@ All-in-one Travel Booking App According to a report published by US Travel Assoc
 
 ## **Technologies Used**
 
-* ### Spring Boot - version 4.0.0
+* ### Spring Boot - version 2.7.1
 * ### Java  - version 17
 * ### MySQL - version 8.1.2
 * ### Hibernate - version 6.0
-* ### Angular - version 8
+* ### Angular - version 14
 * ### Spring Data JPA - version 2.1
+* ### Razorpay 1.4.3
 
 ## **Features**
 
-* Created three sub modules for Booking Travel, Tour, Hotel
-* Created Travel module for managing the works of people who wants to travel.
-* Created Tour module for managing people who needs combo of both travel and accommodation.
-* Created Hotel for people who wants residency with Travel / without Travel.
-* Created Payment Module for managing all the payments.
-* Used to manage all the payments.
+* Created Flight Module.
+* Created Admin Module for managing the flights.
+* Created all the required components for booking flight.
+* Added Registration and Login Validation feature.
+* Added User Email Authentication. 
+* Integrated Payment Module using Razorpay.
 
 ## **To-do list:**
 
-* User can sign up/book/check/decline their tickets
-
-* User can track their process
-
-* User have to register their accounts
-
-* Authenticated Admin can only do any modification on the database
+* User will get notification before plane departure. 
 
 ## **Getting Started**
 
@@ -42,4 +37,4 @@ All-in-one Travel Booking App According to a report published by US Travel Assoc
 
 ## **Usage**
 
-This application helps user to book their travels and tourist places and hotel booking on single application.
+This application helps user to book Flights to their desired destination.
